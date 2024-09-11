@@ -1,0 +1,11 @@
+---
+tags:
+  - Location
+  - Mundane
+---
+- Hippy Commune
+- On a certain level, under public control
+- Relatively higher level
+- People have the ability to change the district’s appearance through cyberspace (holograms?)
+- Some people are trying to make art regular style, some people are really embracing new tech (sorta factions formed, like singers who are pro/anti autotune)
+- Looks graffiti-esque

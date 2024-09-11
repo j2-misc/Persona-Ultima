@@ -1,0 +1,11 @@
+---
+tags:
+  - NPCs
+  - Mundane
+---
+- Bully who hangs out with [[Cassius]], [[Louis & Robert]]
+- Loner type
+- Hair almost covers his right eye
+- Moderately smart Computer Scientist
+	- Doesn't speak often in class, though often muttering when others do
+	- Shared some classes with [[Veronica]]

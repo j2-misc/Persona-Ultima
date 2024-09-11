@@ -1,0 +1,13 @@
+---
+tags:
+  - NPCs
+  - Made-up
+---
+- [[Etan]]'s totally real girlfriend
+- She's totally real
+- She exists
+- She's so successful
+- And beautiful
+- And mean, but in a cool beautiful way
+- And she goes to school on a different floor
+- It's just coincidence no one's ever seen her in person

@@ -1,0 +1,11 @@
+---
+tags:
+  - NPCs
+  - Mundane
+  - Missing
+---
+- fair complexion
+- light blue hair
+- dress pants
+- lavender blouse
+- Matte velvet-colored eyes
