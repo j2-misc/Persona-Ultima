@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Persona Ultima
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to [[Altos Cielos]].
+# The Story So Far
+\[Recap of the story up to the most recent session goes here\].
+![[p5 shibuya.jpg]]
